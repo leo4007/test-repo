@@ -1,0 +1,3 @@
+Segundo arquivo adicionado
+
+Vou ficar pro em vim, nao em git desse jeito
